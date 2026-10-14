@@ -64,7 +64,7 @@
 >
 > — Grace Hopper
 
-## Let's Connect 💗
+## 💗 Let's Connect
 
 I'd love to team up, share ideas, and have fun creating something together!
 
