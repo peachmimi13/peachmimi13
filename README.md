@@ -8,7 +8,7 @@
 
 <h1>Hi 👋 I'm Damii</h1>
 
-<h3>Full-Stack Developer · Web Application Builder · Open Source Enthusiast</h3>
+<h3>Full-Stack Developer · Web Developer · Open Source Enthusiast</h3>
 
 <p>
   I build web applications with clean designs, useful features, and user-friendly interfaces.
