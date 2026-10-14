@@ -66,15 +66,6 @@ Building useful, reliable, and user-focused software.
   </picture>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=161B22&color=F4B6C2&line=F4B6C2&point=F4B6C2&area_color=F4B6C2&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=FFFFFF&color=F4B6C2&line=F4B6C2&point=F4B6C2&area_color=F4B6C2&area=true&hide_border=true" alt="Contribution graph">
-  </picture>
-</p>
-
 ## 💭 Random Dev Quote
 
 > "First, solve the problem. Then, write the code."
