@@ -18,25 +18,6 @@ Building useful, reliable, and user-focused software.
 
 </div>
 
-<details>
-<summary>🎞️ Live wallpaper files</summary>
-
-<p align="center">
-  <a href="./assets/klee-trip-wallpaper.mp4">
-    <img src="https://moewalls.com/wp-content/uploads/2022/07/klee-trip-genshin-impact-thumb.jpg" width="100%" alt="Open the Klee live wallpaper video">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/peachmimi13/peachmimi13/blob/main/assets/klee-trip-wallpaper-v2.gif">▶️ Open the animated GIF</a>
-  ·
-  <a href="./assets/klee-trip-wallpaper.mp4">▶️ Watch the live wallpaper video</a>
-  ·
-  <a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">Wallpaper source</a>
-</p>
-
-</details>
-
 ## 🔗 Connect With Me
 
 <p align="center">
