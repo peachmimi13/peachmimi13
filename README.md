@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">
+  <img src="https://moewalls.com/wp-content/uploads/2022/07/klee-trip-genshin-impact-thumb.jpg" width="100%" alt="Klee Trip live wallpaper">
+</a>
+
+<br>
+
 # Hi 👋 I'm Damii
 
 ### Full-Stack Developer · Open Source Enthusiast
@@ -9,7 +15,23 @@ Building useful, reliable, and user-focused software.
 <a href="https://github.com/peachmimi13">
   <img src="https://img.shields.io/badge/GitHub-peachmimi13-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
+
 </div>
+
+<details>
+<summary>🎞️ Live wallpaper</summary>
+
+<p align="center">
+  <video autoplay loop muted playsinline width="100%" poster="https://moewalls.com/wp-content/uploads/2022/07/klee-trip-genshin-impact-thumb.jpg">
+    <source src="https://moewalls.com/wp-content/uploads/preview/2022/klee-trip-genshin-impact-pixel-preview.webm" type="video/webm">
+  </video>
+</p>
+
+<p align="center">
+  <a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">Open wallpaper source</a>
+</p>
+
+</details>
 
 ## 🔗 Connect With Me
 
@@ -67,6 +89,17 @@ Building useful, reliable, and user-focused software.
 > "First, solve the problem. Then, write the code."
 >
 > — John Johnson
+
+## 📌 Featured
+
+<p align="center">
+  <a href="https://github.com/peachmimi13?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories">
+  </a>
+  <a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">
+    <img src="https://img.shields.io/badge/Wallpaper-Klee%20Trip-7B68EE?style=for-the-badge" alt="Klee Trip wallpaper">
+  </a>
+</p>
 
 ## 🤝 Let's Connect
 
