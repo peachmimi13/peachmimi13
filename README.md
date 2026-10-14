@@ -45,6 +45,14 @@
 
 <p><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,vscode" alt="Node.js, MySQL, PostgreSQL, Docker, VS Code">&nbsp;&nbsp;<a href="https://netbeans.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans"></a></p>
 
+## ✨ What I’m Building
+
+Creating practical web applications with clean interfaces, useful features, and a smooth user experience.
+
+## 🌱 Currently Learning
+
+Improving my full-stack development skills through modern JavaScript and TypeScript tools, responsive design, and better application architecture.
+
 ## 📊 GitHub Analytics
 
 <p align="center">
