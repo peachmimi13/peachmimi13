@@ -9,10 +9,6 @@ Building useful, reliable, and user-focused software.
 <a href="https://github.com/peachmimi13">
   <img src="https://img.shields.io/badge/GitHub-peachmimi13-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-<a href="mailto:gresolajohnandrew153@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
 </div>
 
 ## 🔗 Connect With Me
@@ -20,9 +16,6 @@ Building useful, reliable, and user-focused software.
 <p align="center">
   <a href="https://github.com/peachmimi13">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:gresolajohnandrew153@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -80,9 +73,6 @@ Building useful, reliable, and user-focused software.
 If you want to collaborate on an interesting project, feel free to reach out.
 
 <p align="center">
-  <a href="mailto:gresolajohnandrew153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me">
-  </a>
   <a href="https://github.com/peachmimi13">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
   </a>
