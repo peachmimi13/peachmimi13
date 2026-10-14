@@ -30,7 +30,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Use
 
 ### Languages
 
