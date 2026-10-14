@@ -80,7 +80,7 @@ Building useful, reliable, and user-focused software.
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=default&hide_border=true" height="165" alt="GitHub streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=default&hide_border=true&ring=F4A261&fire=F4A261&currStreakLabel=F4A261" height="165" alt="GitHub streak">
   </picture>
 </p>
 
