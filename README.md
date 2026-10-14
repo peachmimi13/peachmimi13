@@ -57,13 +57,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=161B22&title_color=F4B6C2&text_color=F4B6C2&border_color=F4B6C2&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=FFFFFF&title_color=F4B6C2&text_color=F4B6C2&border_color=F4B6C2&hide_border=false" height="165" alt="Top languages">
-  </picture>
-</p>
-
 ## 💭 Random Dev Quote
 
 > "First, solve the problem. Then, write the code."
