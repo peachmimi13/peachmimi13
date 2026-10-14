@@ -59,9 +59,9 @@
 
 ## 💭 Random Dev Quote
 
-> "First, solve the problem. Then, write the code."
+> "The most dangerous phrase in the language is, 'We've always done it this way.'"
 >
-> — John Johnson
+> — Grace Hopper
 
 ## 📌 Featured
 
