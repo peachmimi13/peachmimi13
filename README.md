@@ -74,15 +74,9 @@
   </a>
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect ♡
 
-If you want to collaborate on an interesting project, feel free to reach out.
-
-<p align="center">
-  <a href="https://github.com/peachmimi13">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
-  </a>
-</p>
+I'd love to team up, share ideas, and have fun creating something together!
 
 <p align="center">
   <sub>Thanks for visiting my profile!</sub>
