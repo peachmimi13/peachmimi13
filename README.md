@@ -11,8 +11,8 @@
 <h3>Full-Stack Developer · Web Developer · Open Source Enthusiast</h3>
 
 <p>
-  I build web applications with clean designs, useful features, and user-friendly interfaces.
-  I focus on creating practical solutions that work well and are easy to use.
+  I enjoy building web applications with clean designs, useful features, and user-friendly interfaces.
+  I like creating practical solutions that work well and are easy to use.
 </p>
 
 <p align="center">
