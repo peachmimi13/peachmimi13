@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">
-  <img src="./assets/klee-trip-wallpaper.gif" width="100%" alt="Klee Trip live wallpaper">
+  <img src="https://raw.githubusercontent.com/peachmimi13/peachmimi13/main/assets/klee-trip-wallpaper-v2.gif" width="100%" alt="Klee Trip live wallpaper">
 </a>
 
 <br>
@@ -28,7 +28,7 @@ Building useful, reliable, and user-focused software.
 </p>
 
 <p align="center">
-  <a href="./assets/klee-trip-wallpaper.gif">▶️ Open the animated GIF</a>
+  <a href="https://github.com/peachmimi13/peachmimi13/blob/main/assets/klee-trip-wallpaper-v2.gif">▶️ Open the animated GIF</a>
   ·
   <a href="./assets/klee-trip-wallpaper.mp4">▶️ Watch the live wallpaper video</a>
   ·
