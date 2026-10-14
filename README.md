@@ -6,15 +6,26 @@
 
 <br>
 
-# Hi 👋 I'm Damii
+<h1>Hi 👋 I'm Damii</h1>
 
-### Full-Stack Developer · Open Source Enthusiast
+<h3>Full-Stack Developer · Web Application Builder · Open Source Enthusiast</h3>
 
-Building useful, reliable, and user-focused software.
+<p>
+  I design and build responsive, maintainable web applications from idea to deployment.
+  My work focuses on clean interfaces, dependable backend systems, and practical solutions
+  that create a better user experience.
+</p>
 
-<a href="https://github.com/peachmimi13">
-  <img src="https://img.shields.io/badge/GitHub-peachmimi13-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-F4B6C2?style=for-the-badge" alt="Full-Stack Web Development">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Always%20Growing-F4B6C2?style=for-the-badge" alt="Always growing">
+</p>
+
+<p>
+  <a href="https://github.com/peachmimi13">
+    <img src="https://img.shields.io/badge/GitHub-peachmimi13-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
