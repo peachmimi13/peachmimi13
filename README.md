@@ -41,7 +41,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,vscode" alt="Node.js, MySQL, PostgreSQL, Docker, VS Code">
 <a href="https://netbeans.apache.org/">
-  <img src="https://cdn.simpleicons.org/apachenetbeans/1B6AC6" width="48" height="48" alt="Apache NetBeans">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans">
 </a>
 
 ## 📊 GitHub Analytics
