@@ -16,7 +16,9 @@
   that create a better user experience.
 </p>
 
-<p><em>somewhere only my dreams know</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Somewhere%20only%20my%20dreams%20know-F4B6C2?style=for-the-badge&labelColor=FFF0F3&color=F4B6C2" alt="Somewhere only my dreams know">
+</p>
 
 <p>
   <a href="https://github.com/peachmimi13">
