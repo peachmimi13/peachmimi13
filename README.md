@@ -60,20 +60,6 @@
 >
 > — Grace Hopper
 
-## 📌 Featured
-
-<p align="center">
-  <a href="https://github.com/peachmimi13?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-F4B6C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
-  </a>
-  <a href="https://moewalls.com/pixel-art/klee-trip-genshin-impact-pixel-live-wallpaper/">
-    <img src="https://img.shields.io/badge/Wallpaper-Klee%20Trip-F4B6C2?style=for-the-badge" alt="Klee Trip wallpaper">
-  </a>
-  <a href="./assets/klee-trip-wallpaper.mp4">
-    <img src="https://img.shields.io/badge/Download-Live%20Wallpaper-F4B6C2?style=for-the-badge" alt="Download live wallpaper">
-  </a>
-</p>
-
 ## Let's Connect ♡
 
 I'd love to team up, share ideas, and have fun creating something together!
