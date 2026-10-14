@@ -11,9 +11,8 @@
 <h3>Full-Stack Developer · Web Application Builder · Open Source Enthusiast</h3>
 
 <p>
-  I design and build responsive, maintainable web applications from idea to deployment.
-  My work focuses on clean interfaces, dependable backend systems, and practical solutions
-  that create a better user experience.
+  I build web applications with clean designs, useful features, and user-friendly interfaces.
+  I focus on creating practical solutions that work well and are easy to use.
 </p>
 
 <p align="center">
