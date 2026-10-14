@@ -58,19 +58,19 @@ Building useful, reliable, and user-focused software.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&bg_color=161B22&title_color=F4A261&text_color=F4A261&icon_color=F4A261&border_color=F4A261&hide_border=false&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&bg_color=FFFFFF&title_color=F4A261&text_color=F4A261&icon_color=F4A261&border_color=F4A261&hide_border=false&rank_icon=github" height="165" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&bg_color=161B22&title_color=F4B6C2&text_color=F4B6C2&icon_color=F4B6C2&border_color=F4B6C2&hide_border=false&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&bg_color=FFFFFF&title_color=F4B6C2&text_color=F4B6C2&icon_color=F4B6C2&border_color=F4B6C2&hide_border=false&rank_icon=github" height="165" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=dark&background=161B22&border=F4A261&ring=F4A261&fire=F4A261&currStreakLabel=F4A261&currStreakNum=F4A261&sideNums=F4A261&sideLabels=F4A261&dates=F4A261">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=default&background=FFFFFF&border=F4A261&ring=F4A261&fire=F4A261&currStreakLabel=F4A261&currStreakNum=F4A261&sideNums=F4A261&sideLabels=F4A261&dates=F4A261" height="165" alt="GitHub streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=dark&background=161B22&border=F4B6C2&ring=F4B6C2&fire=F4B6C2&currStreakLabel=F4B6C2&currStreakNum=F4B6C2&sideNums=F4B6C2&sideLabels=F4B6C2&dates=F4B6C2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=default&background=FFFFFF&border=F4B6C2&ring=F4B6C2&fire=F4B6C2&currStreakLabel=F4B6C2&currStreakNum=F4B6C2&sideNums=F4B6C2&sideLabels=F4B6C2&dates=F4B6C2" height="165" alt="GitHub streak">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=161B22&title_color=F4A261&text_color=F4A261&border_color=F4A261&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=FFFFFF&title_color=F4A261&text_color=F4A261&border_color=F4A261&hide_border=false" height="165" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=161B22&title_color=F4B6C2&text_color=F4B6C2&border_color=F4B6C2&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&bg_color=FFFFFF&title_color=F4B6C2&text_color=F4B6C2&border_color=F4B6C2&hide_border=false" height="165" alt="Top languages">
   </picture>
 </p>
 
@@ -78,8 +78,8 @@ Building useful, reliable, and user-focused software.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=161B22&color=F4A261&line=F4A261&point=F4A261&area_color=F4A261&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=FFFFFF&color=F4A261&line=F4A261&point=F4A261&area_color=F4A261&area=true&hide_border=true" alt="Contribution graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=161B22&color=F4B6C2&line=F4B6C2&point=F4B6C2&area_color=F4B6C2&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&bg_color=FFFFFF&color=F4B6C2&line=F4B6C2&point=F4B6C2&area_color=F4B6C2&area=true&hide_border=true" alt="Contribution graph">
   </picture>
 </p>
 
