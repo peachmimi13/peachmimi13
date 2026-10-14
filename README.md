@@ -16,10 +16,7 @@
   that create a better user experience.
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-F4B6C2?style=for-the-badge" alt="Full-Stack Web Development">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Always%20Growing-F4B6C2?style=for-the-badge" alt="Always growing">
-</p>
+<p><em>somewhere only my dreams know</em></p>
 
 <p>
   <a href="https://github.com/peachmimi13">
