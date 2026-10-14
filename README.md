@@ -15,8 +15,7 @@
 </p>
 
 <p>
-  I enjoy building web applications with clean designs, useful features, and user-friendly interfaces.
-  I like creating practical solutions that work well and are easy to use.
+  I'm still new to GitHub, excited to share my little projects, try new things, and see where this journey takes me. ♡
 </p>
 
 <p align="center">
