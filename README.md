@@ -108,11 +108,3 @@ If you want to collaborate on an interesting project, feel free to reach out.
 <p align="center">
   <sub>Thanks for visiting my profile!</sub>
 </p>
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/peachmimi13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
