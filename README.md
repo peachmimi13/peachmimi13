@@ -74,18 +74,30 @@ Building useful, reliable, and user-focused software.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=peachmimi13&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachmimi13&theme=default&hide_border=true" height="165" alt="GitHub streak">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachmimi13&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages">
+  </picture>
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&theme=tokyo-night&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peachmimi13&theme=github-light&hide_border=true&area=true" alt="Contribution graph">
+  </picture>
 </p>
 
 ## 💭 Random Dev Quote
