@@ -45,6 +45,10 @@
 
 <p><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,vscode" alt="Node.js, MySQL, PostgreSQL, Docker, VS Code">&nbsp;&nbsp;<a href="https://netbeans.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans"></a></p>
 
+## ✨ What I’m Building
+
+Making cute little projects, bringing my ideas to life, and having fun along the way.
+
 ## 📊 GitHub Analytics
 
 <p align="center">
