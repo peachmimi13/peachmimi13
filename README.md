@@ -39,7 +39,7 @@
 
 ### Runtime, Databases, and Tools
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,vscode" alt="Node.js, MySQL, PostgreSQL, Docker, VS Code"><a href="https://netbeans.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans"></a></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,vscode" alt="Node.js, MySQL, PostgreSQL, Docker, VS Code">&nbsp;&nbsp;<a href="https://netbeans.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans"></a></p>
 
 ## 📊 GitHub Analytics
 
