@@ -11,6 +11,10 @@
 <h3>Full-Stack Developer · Web Developer · Open Source Enthusiast</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-F4B6C2?style=for-the-badge&labelColor=FFF0F3" alt="Pronouns: She/Her">
+</p>
+
+<p>
   I enjoy building web applications with clean designs, useful features, and user-friendly interfaces.
   I like creating practical solutions that work well and are easy to use.
 </p>
